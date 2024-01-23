@@ -10,8 +10,7 @@ body {
 }
 
 .topdiv{
-    position: relative;
-    left: 36.25%;
+    margin: auto;
     width: 400px;
     text-align: center;
     padding: 20px;
